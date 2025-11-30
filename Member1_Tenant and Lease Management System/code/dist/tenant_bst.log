@@ -1,0 +1,324 @@
+2025-11-29 14:47:38,093 - INFO - [
+92mACTION: !* tenant_test_data.json generated successfully.[0m
+2025-11-29 14:47:38,094 - INFO - [
+94mINFO: !* Tenant inserted as root[0m
+2025-11-29 14:47:38,094 - INFO - [
+92mACTION: !* Tenant inserted on the RIGHT[0m
+2025-11-29 14:47:38,094 - INFO - [
+92mACTION: !* Tenant inserted on the RIGHT[0m
+2025-11-29 14:47:38,094 - INFO - [
+92mACTION: !* Tenant inserted on the RIGHT[0m
+2025-11-29 14:47:38,094 - INFO - [
+92mACTION: !* Tenant inserted on the RIGHT[0m
+2025-11-29 14:47:38,095 - INFO - [
+1;37;44m===== Tenant & Lease Management System (BST) =====[0m
+2025-11-29 14:47:38,097 - INFO - [
+94mINFO: !* 0. Generate new random tenants[0m
+2025-11-29 14:47:38,097 - INFO - [
+94mINFO: !* 1. Insert new tenant[0m
+2025-11-29 14:47:38,097 - INFO - [
+94mINFO: !* 2. Search tenant by ID[0m
+2025-11-29 14:47:38,097 - INFO - [
+94mINFO: !* 3. Update tenant[0m
+2025-11-29 14:47:38,098 - INFO - [
+94mINFO: !* 4. Delete tenant[0m
+2025-11-29 14:47:38,098 - INFO - [
+94mINFO: !* 5. Display all tenants[0m
+2025-11-29 14:47:38,098 - INFO - [
+94mINFO: !* 6. Exit[0m
+2025-11-29 14:48:06,458 - INFO - [
+93mWARNING: !* Generating new random tenants will overwrite existing data in BST and tenant_test_data.json[0m
+2025-11-29 14:48:06,459 - INFO - [
+93mWARNING: !* Overwriting existing tenants in BST and tenant_test_data.json[0m
+2025-11-29 14:48:17,299 - INFO - [
+93mWARNING: !* Operation cancelled[0m
+2025-11-29 14:48:17,299 - INFO - [
+1;37;44m===== Tenant & Lease Management System (BST) =====[0m
+2025-11-29 14:48:17,299 - INFO - [
+94mINFO: !* 0. Generate new random tenants[0m
+2025-11-29 14:48:17,300 - INFO - [
+94mINFO: !* 1. Insert new tenant[0m
+2025-11-29 14:48:17,300 - INFO - [
+94mINFO: !* 2. Search tenant by ID[0m
+2025-11-29 14:48:17,300 - INFO - [
+94mINFO: !* 3. Update tenant[0m
+2025-11-29 14:48:17,300 - INFO - [
+94mINFO: !* 4. Delete tenant[0m
+2025-11-29 14:48:17,300 - INFO - [
+94mINFO: !* 5. Display all tenants[0m
+2025-11-29 14:48:17,300 - INFO - [
+94mINFO: !* 6. Exit[0m
+2025-11-29 14:48:21,889 - INFO - [
+93mWARNING: !* Generating new random tenants will overwrite existing data in BST and tenant_test_data.json[0m
+2025-11-29 14:48:21,890 - INFO - [
+93mWARNING: !* Overwriting existing tenants in BST and tenant_test_data.json[0m
+2025-11-29 14:48:24,924 - INFO - [
+93mWARNING: !* BST cleared (all tenants removed)[0m
+2025-11-29 14:48:24,925 - INFO - [
+93mWARNING: !* Proceeding will erase all current data in the BST[0m
+2025-11-29 14:48:24,926 - INFO - [
+92mACTION: !* tenant_test_data.json generated successfully.[0m
+2025-11-29 14:48:24,926 - INFO - [
+94mINFO: !* Tenant inserted as root[0m
+2025-11-29 14:48:24,927 - INFO - [
+92mACTION: !* Tenant inserted on the RIGHT[0m
+2025-11-29 14:48:24,927 - INFO - [
+92mACTION: !* Tenant inserted on the RIGHT[0m
+2025-11-29 14:48:24,927 - INFO - [
+92mACTION: !* Tenant inserted on the RIGHT[0m
+2025-11-29 14:48:24,928 - INFO - [
+92mACTION: !* Tenant inserted on the RIGHT[0m
+2025-11-29 14:48:24,928 - INFO - [
+96mDEBUG: !* Tenant details - inorder: TenantID: 1000, Name: Tenant_001, Phone: 011-1419610, Unit: C-08-04, Lease: 12 months[0m
+2025-11-29 14:48:24,928 - INFO - [
+96mDEBUG: !* Tenant details - inorder: TenantID: 1001, Name: Tenant_002, Phone: 011-2458591, Unit: D-02-01, Lease: 6 months[0m
+2025-11-29 14:48:24,928 - INFO - [
+96mDEBUG: !* Tenant details - inorder: TenantID: 1002, Name: Tenant_003, Phone: 013-4903402, Unit: A-18-04, Lease: 36 months[0m
+2025-11-29 14:48:24,928 - INFO - [
+96mDEBUG: !* Tenant details - inorder: TenantID: 1003, Name: Tenant_004, Phone: 016-4698379, Unit: D-19-05, Lease: 6 months[0m
+2025-11-29 14:48:24,928 - INFO - [
+96mDEBUG: !* Tenant details - inorder: TenantID: 1004, Name: Tenant_005, Phone: 012-8090293, Unit: C-09-03, Lease: 12 months[0m
+2025-11-29 14:48:24,930 - INFO - [
+92mACTION: !* BST snapshot saved to tenant_test_data.json[0m
+2025-11-29 14:48:24,930 - INFO - [
+92mACTION: !* New random tenants generated and loaded into BST successfully.[0m
+2025-11-29 14:48:24,930 - INFO - [
+1;37;44m===== Tenant & Lease Management System (BST) =====[0m
+2025-11-29 14:48:24,930 - INFO - [
+94mINFO: !* 0. Generate new random tenants[0m
+2025-11-29 14:48:24,930 - INFO - [
+94mINFO: !* 1. Insert new tenant[0m
+2025-11-29 14:48:24,931 - INFO - [
+94mINFO: !* 2. Search tenant by ID[0m
+2025-11-29 14:48:24,931 - INFO - [
+94mINFO: !* 3. Update tenant[0m
+2025-11-29 14:48:24,931 - INFO - [
+94mINFO: !* 4. Delete tenant[0m
+2025-11-29 14:48:24,931 - INFO - [
+94mINFO: !* 5. Display all tenants[0m
+2025-11-29 14:48:24,932 - INFO - [
+94mINFO: !* 6. Exit[0m
+2025-11-29 14:49:09,850 - INFO - [
+92mACTION: !* Tenant inserted on the RIGHT[0m
+2025-11-29 14:49:09,851 - INFO - [
+96mDEBUG: !* Tenant details - inorder: TenantID: 1000, Name: Tenant_001, Phone: 011-1419610, Unit: C-08-04, Lease: 12 months[0m
+2025-11-29 14:49:09,851 - INFO - [
+96mDEBUG: !* Tenant details - inorder: TenantID: 1001, Name: Tenant_002, Phone: 011-2458591, Unit: D-02-01, Lease: 6 months[0m
+2025-11-29 14:49:09,852 - INFO - [
+96mDEBUG: !* Tenant details - inorder: TenantID: 1002, Name: Tenant_003, Phone: 013-4903402, Unit: A-18-04, Lease: 36 months[0m
+2025-11-29 14:49:09,852 - INFO - [
+96mDEBUG: !* Tenant details - inorder: TenantID: 1003, Name: Tenant_004, Phone: 016-4698379, Unit: D-19-05, Lease: 6 months[0m
+2025-11-29 14:49:09,852 - INFO - [
+96mDEBUG: !* Tenant details - inorder: TenantID: 1004, Name: Tenant_005, Phone: 012-8090293, Unit: C-09-03, Lease: 12 months[0m
+2025-11-29 14:49:09,853 - INFO - [
+96mDEBUG: !* Tenant details - inorder: TenantID: 1111, Name: CTMX, Phone: 0123456789, Unit: A-12-03, Lease: 1 months[0m
+2025-11-29 14:49:09,854 - INFO - [
+92mACTION: !* BST snapshot saved to tenant_test_data.json[0m
+2025-11-29 14:49:09,855 - INFO - [
+1;37;44m===== Tenant & Lease Management System (BST) =====[0m
+2025-11-29 14:49:09,855 - INFO - [
+94mINFO: !* 0. Generate new random tenants[0m
+2025-11-29 14:49:09,855 - INFO - [
+94mINFO: !* 1. Insert new tenant[0m
+2025-11-29 14:49:09,856 - INFO - [
+94mINFO: !* 2. Search tenant by ID[0m
+2025-11-29 14:49:09,856 - INFO - [
+94mINFO: !* 3. Update tenant[0m
+2025-11-29 14:49:09,856 - INFO - [
+94mINFO: !* 4. Delete tenant[0m
+2025-11-29 14:49:09,856 - INFO - [
+94mINFO: !* 5. Display all tenants[0m
+2025-11-29 14:49:09,856 - INFO - [
+94mINFO: !* 6. Exit[0m
+2025-11-29 14:49:25,536 - INFO - [
+92mACTION: !* Tenant found successfully[0m
+2025-11-29 14:49:25,536 - INFO - [
+96mDEBUG: !* Tenant details: TenantID: 1111, Name: CTMX, Phone: 0123456789, Unit: A-12-03, Lease: 1 months[0m
+2025-11-29 14:49:25,537 - INFO - [
+1;37;44m===== Tenant & Lease Management System (BST) =====[0m
+2025-11-29 14:49:25,537 - INFO - [
+94mINFO: !* 0. Generate new random tenants[0m
+2025-11-29 14:49:25,537 - INFO - [
+94mINFO: !* 1. Insert new tenant[0m
+2025-11-29 14:49:25,537 - INFO - [
+94mINFO: !* 2. Search tenant by ID[0m
+2025-11-29 14:49:25,537 - INFO - [
+94mINFO: !* 3. Update tenant[0m
+2025-11-29 14:49:25,537 - INFO - [
+94mINFO: !* 4. Delete tenant[0m
+2025-11-29 14:49:25,537 - INFO - [
+94mINFO: !* 5. Display all tenants[0m
+2025-11-29 14:49:25,537 - INFO - [
+94mINFO: !* 6. Exit[0m
+2025-11-29 14:50:10,750 - INFO - [
+92mACTION: !* Tenant updated successfully[0m
+2025-11-29 14:50:10,750 - INFO - [
+96mDEBUG: !* Tenant details - inorder: TenantID: 1000, Name: Tenant_001, Phone: 011-1419610, Unit: C-08-04, Lease: 12 months[0m
+2025-11-29 14:50:10,751 - INFO - [
+96mDEBUG: !* Tenant details - inorder: TenantID: 1001, Name: Tenant_002, Phone: 011-2458591, Unit: D-02-01, Lease: 6 months[0m
+2025-11-29 14:50:10,751 - INFO - [
+96mDEBUG: !* Tenant details - inorder: TenantID: 1002, Name: Tenant_003, Phone: 013-4903402, Unit: A-18-04, Lease: 36 months[0m
+2025-11-29 14:50:10,752 - INFO - [
+96mDEBUG: !* Tenant details - inorder: TenantID: 1003, Name: Tenant_004, Phone: 016-4698379, Unit: D-19-05, Lease: 6 months[0m
+2025-11-29 14:50:10,752 - INFO - [
+96mDEBUG: !* Tenant details - inorder: TenantID: 1004, Name: Tenant_005, Phone: 012-8090293, Unit: C-09-03, Lease: 12 months[0m
+2025-11-29 14:50:10,753 - INFO - [
+96mDEBUG: !* Tenant details - inorder: TenantID: 1111, Name: CTMX, Phone: 0123456789, Unit: A-12-01, Lease: 3 months[0m
+2025-11-29 14:50:10,755 - INFO - [
+92mACTION: !* BST snapshot saved to tenant_test_data.json[0m
+2025-11-29 14:50:10,755 - INFO - [
+1;37;44m===== Tenant & Lease Management System (BST) =====[0m
+2025-11-29 14:50:10,756 - INFO - [
+94mINFO: !* 0. Generate new random tenants[0m
+2025-11-29 14:50:10,756 - INFO - [
+94mINFO: !* 1. Insert new tenant[0m
+2025-11-29 14:50:10,756 - INFO - [
+94mINFO: !* 2. Search tenant by ID[0m
+2025-11-29 14:50:10,756 - INFO - [
+94mINFO: !* 3. Update tenant[0m
+2025-11-29 14:50:10,756 - INFO - [
+94mINFO: !* 4. Delete tenant[0m
+2025-11-29 14:50:10,756 - INFO - [
+94mINFO: !* 5. Display all tenants[0m
+2025-11-29 14:50:10,756 - INFO - [
+94mINFO: !* 6. Exit[0m
+2025-11-29 14:50:34,067 - INFO - [
+92mACTION: !* Tenant deleted successfully[0m
+2025-11-29 14:50:34,068 - INFO - [
+96mDEBUG: !* Tenant details - inorder: TenantID: 1000, Name: Tenant_001, Phone: 011-1419610, Unit: C-08-04, Lease: 12 months[0m
+2025-11-29 14:50:34,068 - INFO - [
+96mDEBUG: !* Tenant details - inorder: TenantID: 1001, Name: Tenant_002, Phone: 011-2458591, Unit: D-02-01, Lease: 6 months[0m
+2025-11-29 14:50:34,068 - INFO - [
+96mDEBUG: !* Tenant details - inorder: TenantID: 1002, Name: Tenant_003, Phone: 013-4903402, Unit: A-18-04, Lease: 36 months[0m
+2025-11-29 14:50:34,068 - INFO - [
+96mDEBUG: !* Tenant details - inorder: TenantID: 1003, Name: Tenant_004, Phone: 016-4698379, Unit: D-19-05, Lease: 6 months[0m
+2025-11-29 14:50:34,069 - INFO - [
+96mDEBUG: !* Tenant details - inorder: TenantID: 1004, Name: Tenant_005, Phone: 012-8090293, Unit: C-09-03, Lease: 12 months[0m
+2025-11-29 14:50:34,070 - INFO - [
+92mACTION: !* BST snapshot saved to tenant_test_data.json[0m
+2025-11-29 14:50:34,070 - INFO - [
+1;37;44m===== Tenant & Lease Management System (BST) =====[0m
+2025-11-29 14:50:34,071 - INFO - [
+94mINFO: !* 0. Generate new random tenants[0m
+2025-11-29 14:50:34,071 - INFO - [
+94mINFO: !* 1. Insert new tenant[0m
+2025-11-29 14:50:34,071 - INFO - [
+94mINFO: !* 2. Search tenant by ID[0m
+2025-11-29 14:50:34,071 - INFO - [
+94mINFO: !* 3. Update tenant[0m
+2025-11-29 14:50:34,071 - INFO - [
+94mINFO: !* 4. Delete tenant[0m
+2025-11-29 14:50:34,071 - INFO - [
+94mINFO: !* 5. Display all tenants[0m
+2025-11-29 14:50:34,071 - INFO - [
+94mINFO: !* 6. Exit[0m
+2025-11-29 14:50:42,830 - INFO - [
+1;37;44m===== Choose display order: =====[0m
+2025-11-29 14:50:42,831 - INFO - [
+94mINFO: !* 1. Inorder (sorted by Tenant ID)[0m
+2025-11-29 14:50:42,831 - INFO - [
+94mINFO: !* 2. Preorder (show tree structure)[0m
+2025-11-29 14:50:42,831 - INFO - [
+94mINFO: !* 3. Postorder (bottom-up)[0m
+2025-11-29 14:50:54,314 - INFO - [
+94mINFO: !* Displaying tenants in inorder...[0m
+2025-11-29 14:50:54,314 - INFO - [
+96mDEBUG: !* Tenant details - inorder: TenantID: 1000, Name: Tenant_001, Phone: 011-1419610, Unit: C-08-04, Lease: 12 months[0m
+2025-11-29 14:50:54,315 - INFO - [
+96mDEBUG: !* Tenant details - inorder: TenantID: 1001, Name: Tenant_002, Phone: 011-2458591, Unit: D-02-01, Lease: 6 months[0m
+2025-11-29 14:50:54,315 - INFO - [
+96mDEBUG: !* Tenant details - inorder: TenantID: 1002, Name: Tenant_003, Phone: 013-4903402, Unit: A-18-04, Lease: 36 months[0m
+2025-11-29 14:50:54,315 - INFO - [
+96mDEBUG: !* Tenant details - inorder: TenantID: 1003, Name: Tenant_004, Phone: 016-4698379, Unit: D-19-05, Lease: 6 months[0m
+2025-11-29 14:50:54,315 - INFO - [
+96mDEBUG: !* Tenant details - inorder: TenantID: 1004, Name: Tenant_005, Phone: 012-8090293, Unit: C-09-03, Lease: 12 months[0m
+2025-11-29 14:50:54,315 - INFO - [
+1;37;44m===== Tenant & Lease Management System (BST) =====[0m
+2025-11-29 14:50:54,315 - INFO - [
+94mINFO: !* 0. Generate new random tenants[0m
+2025-11-29 14:50:54,315 - INFO - [
+94mINFO: !* 1. Insert new tenant[0m
+2025-11-29 14:50:54,316 - INFO - [
+94mINFO: !* 2. Search tenant by ID[0m
+2025-11-29 14:50:54,316 - INFO - [
+94mINFO: !* 3. Update tenant[0m
+2025-11-29 14:50:54,316 - INFO - [
+94mINFO: !* 4. Delete tenant[0m
+2025-11-29 14:50:54,316 - INFO - [
+94mINFO: !* 5. Display all tenants[0m
+2025-11-29 14:50:54,317 - INFO - [
+94mINFO: !* 6. Exit[0m
+2025-11-29 14:51:00,660 - INFO - [
+1;37;44m===== Choose display order: =====[0m
+2025-11-29 14:51:00,660 - INFO - [
+94mINFO: !* 1. Inorder (sorted by Tenant ID)[0m
+2025-11-29 14:51:00,661 - INFO - [
+94mINFO: !* 2. Preorder (show tree structure)[0m
+2025-11-29 14:51:00,661 - INFO - [
+94mINFO: !* 3. Postorder (bottom-up)[0m
+2025-11-29 14:51:02,971 - INFO - [
+94mINFO: !* Displaying tenants in preorder...[0m
+2025-11-29 14:51:02,971 - INFO - [
+96mDEBUG: !* Tenant details - preorder: TenantID: 1000, Name: Tenant_001, Phone: 011-1419610, Unit: C-08-04, Lease: 12 months[0m
+2025-11-29 14:51:02,972 - INFO - [
+96mDEBUG: !* Tenant details - preorder: TenantID: 1001, Name: Tenant_002, Phone: 011-2458591, Unit: D-02-01, Lease: 6 months[0m
+2025-11-29 14:51:02,972 - INFO - [
+96mDEBUG: !* Tenant details - preorder: TenantID: 1002, Name: Tenant_003, Phone: 013-4903402, Unit: A-18-04, Lease: 36 months[0m
+2025-11-29 14:51:02,972 - INFO - [
+96mDEBUG: !* Tenant details - preorder: TenantID: 1003, Name: Tenant_004, Phone: 016-4698379, Unit: D-19-05, Lease: 6 months[0m
+2025-11-29 14:51:02,972 - INFO - [
+96mDEBUG: !* Tenant details - preorder: TenantID: 1004, Name: Tenant_005, Phone: 012-8090293, Unit: C-09-03, Lease: 12 months[0m
+2025-11-29 14:51:02,972 - INFO - [
+1;37;44m===== Tenant & Lease Management System (BST) =====[0m
+2025-11-29 14:51:02,972 - INFO - [
+94mINFO: !* 0. Generate new random tenants[0m
+2025-11-29 14:51:02,973 - INFO - [
+94mINFO: !* 1. Insert new tenant[0m
+2025-11-29 14:51:02,973 - INFO - [
+94mINFO: !* 2. Search tenant by ID[0m
+2025-11-29 14:51:02,973 - INFO - [
+94mINFO: !* 3. Update tenant[0m
+2025-11-29 14:51:02,973 - INFO - [
+94mINFO: !* 4. Delete tenant[0m
+2025-11-29 14:51:02,973 - INFO - [
+94mINFO: !* 5. Display all tenants[0m
+2025-11-29 14:51:02,973 - INFO - [
+94mINFO: !* 6. Exit[0m
+2025-11-29 14:51:08,376 - INFO - [
+1;37;44m===== Choose display order: =====[0m
+2025-11-29 14:51:08,378 - INFO - [
+94mINFO: !* 1. Inorder (sorted by Tenant ID)[0m
+2025-11-29 14:51:08,379 - INFO - [
+94mINFO: !* 2. Preorder (show tree structure)[0m
+2025-11-29 14:51:08,379 - INFO - [
+94mINFO: !* 3. Postorder (bottom-up)[0m
+2025-11-29 14:51:11,320 - INFO - [
+94mINFO: !* Displaying tenants in postorder...[0m
+2025-11-29 14:51:11,320 - INFO - [
+96mDEBUG: !* Tenant details - postorder: TenantID: 1004, Name: Tenant_005, Phone: 012-8090293, Unit: C-09-03, Lease: 12 months[0m
+2025-11-29 14:51:11,321 - INFO - [
+96mDEBUG: !* Tenant details - postorder: TenantID: 1003, Name: Tenant_004, Phone: 016-4698379, Unit: D-19-05, Lease: 6 months[0m
+2025-11-29 14:51:11,321 - INFO - [
+96mDEBUG: !* Tenant details - postorder: TenantID: 1002, Name: Tenant_003, Phone: 013-4903402, Unit: A-18-04, Lease: 36 months[0m
+2025-11-29 14:51:11,321 - INFO - [
+96mDEBUG: !* Tenant details - postorder: TenantID: 1001, Name: Tenant_002, Phone: 011-2458591, Unit: D-02-01, Lease: 6 months[0m
+2025-11-29 14:51:11,322 - INFO - [
+96mDEBUG: !* Tenant details - postorder: TenantID: 1000, Name: Tenant_001, Phone: 011-1419610, Unit: C-08-04, Lease: 12 months[0m
+2025-11-29 14:51:11,322 - INFO - [
+1;37;44m===== Tenant & Lease Management System (BST) =====[0m
+2025-11-29 14:51:11,322 - INFO - [
+94mINFO: !* 0. Generate new random tenants[0m
+2025-11-29 14:51:11,322 - INFO - [
+94mINFO: !* 1. Insert new tenant[0m
+2025-11-29 14:51:11,322 - INFO - [
+94mINFO: !* 2. Search tenant by ID[0m
+2025-11-29 14:51:11,323 - INFO - [
+94mINFO: !* 3. Update tenant[0m
+2025-11-29 14:51:11,323 - INFO - [
+94mINFO: !* 4. Delete tenant[0m
+2025-11-29 14:51:11,323 - INFO - [
+94mINFO: !* 5. Display all tenants[0m
+2025-11-29 14:51:11,323 - INFO - [
+94mINFO: !* 6. Exit[0m
+2025-11-29 14:51:25,370 - INFO - [
+1;37;44m===== Exiting program =====[0m

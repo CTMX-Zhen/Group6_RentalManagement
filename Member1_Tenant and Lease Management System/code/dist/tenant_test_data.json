@@ -1,0 +1,37 @@
+[
+    {
+        "tenant_id": 1000,
+        "name": "Tenant_001",
+        "phone": "011-1419610",
+        "unit": "C-08-04",
+        "lease": 12
+    },
+    {
+        "tenant_id": 1001,
+        "name": "Tenant_002",
+        "phone": "011-2458591",
+        "unit": "D-02-01",
+        "lease": 6
+    },
+    {
+        "tenant_id": 1002,
+        "name": "Tenant_003",
+        "phone": "013-4903402",
+        "unit": "A-18-04",
+        "lease": 36
+    },
+    {
+        "tenant_id": 1003,
+        "name": "Tenant_004",
+        "phone": "016-4698379",
+        "unit": "D-19-05",
+        "lease": 6
+    },
+    {
+        "tenant_id": 1004,
+        "name": "Tenant_005",
+        "phone": "012-8090293",
+        "unit": "C-09-03",
+        "lease": 12
+    }
+]
