@@ -118,65 +118,35 @@ The executable includes all dependencies via PyInstaller — **no Python install
 
 ## 📌 Overview
 
-This project is a **Java-based Rental Management System** packaged into a runnable JAR file.
-When built by the IDE, all required dependency JARs are placed into a `lib/` directory and linked inside the JAR’s manifest (`MANIFEST.MF`).
+Java console application that loads property listings from `src/csv/mudah-apartment-kl-selangor.csv` into a Binary Search Tree keyed by `ads_id`. The menu lets you list, search, add, update, and delete properties while keeping them sorted by ID.
 
 ---
 
 ## 🚀 How to Run
 
-1. Navigate to:
-
-   ```text
-   Member2_Property Rental System\RentalManagementSystem\dist\
+1. From the repository root, go to `Member2_Property Rental System/PropertyRentalSystemBst`.
+2. Ensure `src/csv/mudah-apartment-kl-selangor.csv` remains in place (the program reads it on startup).
+3. Run:
    ```
-
-2. Run the application:
-
-   ```bash
-   java -jar "RentalManagementSystem.jar"
+   java -cp build/classes propertyrentalsystembst.PropertyRentalSystem
    ```
-
-The program will automatically load all JARs from the `lib/` folder.
+The app stays in the menu until you enter `0` to exit.
 
 ---
 
-## 📦 Distribution
+## 🛠 Rebuilding from source
 
-To distribute the program:
+If you need to recompile:
+```
+cd "Member2_Property Rental System/PropertyRentalSystemBst"
+javac -d build/classes src/propertyrentalsystembst/*.java
+java -cp build/classes propertyrentalsystembst.PropertyRentalSystem
+```
 
-1. Zip the entire **dist/** folder:
+The NetBeans/Ant build file `build.xml` is included if you prefer to build a JAR yourself; no prebuilt JAR is committed.
 
-   ```text
-   dist/
-   ├── RentalManagementSystem.jar
-   └── lib/
-       └── (all dependency JARs)
-   ```
+### Files
 
-2. Share the ZIP.
-   The receiver can run the program immediately using:
-
-   ```bash
-   java -jar RentalManagementSystem.jar
-   ```
-
----
-
-## 🛠 Build & Classpath Details
-
-* All JARs on the classpath are copied to `dist/lib/`.
-* They are also added to the `Class-Path` attribute in the JAR manifest.
-* If duplicate filenames exist, only the **first** JAR is copied.
-* Only **JAR files** are copied — other file types/folders are ignored.
-* If a library contains its own manifest `Class-Path`, those referenced files **must** also exist at runtime.
-
-### Setting Main Class in IDE
-
-To define the entry point:
-
-1. Right-click the project
-2. Select **Properties → Run**
-3. Set the **Main Class**
-
-   * or manually edit the manifest's `Main-Class` entry
+- Source code: `src/propertyrentalsystembst/` (`Bst.java`, `BstNode.java`, `CsvLoader.java`, `Property.java`, `PropertyRentalSystem.java`, `RentalService.java`).
+- Data: `src/csv/mudah-apartment-kl-selangor.csv` (also copied to `build/classes/csv/`).
+- Build outputs: `build/classes/` contains compiled `.class` files ready to run with the command above.
